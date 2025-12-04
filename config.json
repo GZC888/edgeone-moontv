@@ -1,5 +1,5 @@
 {
-  "homepage_password": "admin123",
+  "homepage_password": "Gep66666",
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
@@ -85,6 +85,79 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    // ↓↓↓↓↓ 我新增的40多个2025.12月稳定免费源 ↓↓↓↓↓
+    "1080zy": {
+      "api": "https://api.1080zy.co/api.php/provide/vod/",
+      "name": "1080资源"
+    },
+    "kyzy": {
+      "api": "https://cj.kyzyapi.com/api.php/provide/vod/",
+      "name": "酷云资源"
+    },
+    "flyzy": {
+      "api": "https://cj.flyzyapi.com/api.php/provide/vod/",
+      "name": "飞猪资源"
+    },
+    "subo": {
+      "api": "https://subo.zyapi.com/api.php/provide/vod/",
+      "name": "速播资源"
+    },
+    "1717yun": {
+      "api": "https://api.1717yun.com/api.php/provide/vod/",
+      "name": "1717云资源"
+    },
+    "jiaodong": {
+      "api": "https://api.jiaodong.net/api.php/provide/vod/",
+      "name": "焦点资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapp.com/api.php/provide/vod/",
+      "name": "UKU资源"
+    },
+    "hkm": {
+      "api": "https://hkmapi.com/api.php/provide/vod/",
+      "name": "香港妈妈"
+    },
+    "ninja": {
+      "api": "https://cj.ninzyapi.com/api.php/provide/vod/",
+      "name": "忍者资源"
+    },
+    "webjszy": {
+      "api": "https://api.webjszy.com/api.php/provide/vod/",
+      "name": "网盘资源"
+    },
+    "sdyun": {
+      "api": "https://api.sdyun.cyou/api.php/provide/vod/",
+      "name": "闪电资源"
+    },
+    "180zy": {
+      "api": "https://api.180zy.com/api.php/provide/vod/",
+      "name": "180资源"
+    },
+    "hksj": {
+      "api": "https://hksjapi.com/api.php/provide/vod/",
+      "name": "香港世界"
+    },
+    "kuyun": {
+      "api": "https://api.kuyunapi.com/api.php/provide/vod/",
+      "name": "酷云资源"
+    },
+    "hdwo": {
+      "api": "https://hdwo.tv/api.php/provide/vod/",
+      "name": "红尘窝"
+    },
+    "ffzy1": {
+      "api": "https://cj.ffzyapi1.com/api.php/provide/vod/",
+      "name": "非凡1"
+    },
+    "ffzy2": {
+      "api": "https://cj.ffzyapi2.com/api.php/provide/vod/",
+      "name": "非凡2"
+    },
+    "ffzy3": {
+      "api": "https://cj.ffzyapi3.com/api.php/provide/vod/",
+      "name": "非凡3"
     }
   }
 }
