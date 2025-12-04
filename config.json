@@ -2,6 +2,31 @@
   "homepage_password": "Gep66666",
   "cache_time": 7200,
   "api_site": {
+    "lsbzy": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "name": "老色批资源"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "name": "玉兔资源"
+    },
+    "madou": {
+      "api": "https://api.madouse.com/api.php/provide/vod/",
+      "name": "麻豆资源"
+    },
+    "avzy": {
+      "api": "https://api.avzy1.com/api.php/provide/vod/",
+      "name": "AV资源"
+    },
+    "91zy": {
+      "api": "https://91zy.cc/api.php/provide/vod/",
+      "name": "91资源"
+    },
+    "caiji18": {
+      "api": "https://cj18.18avzy.com/api.php/provide/vod/",
+      "name": "18AV采集"
+    },
+
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
