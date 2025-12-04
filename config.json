@@ -86,7 +86,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    // ↓↓↓↓↓ 我新增的40多个2025.12月稳定免费源 ↓↓↓↓↓
     "1080zy": {
       "api": "https://api.1080zy.co/api.php/provide/vod/",
       "name": "1080资源"
