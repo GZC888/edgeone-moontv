@@ -12,6 +12,42 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "omofun": {
+      "api": "https://omofun.tv/api.php/provide/vod/",
+      "name": "OmoFun动漫"
+    },
+    "agefans": {
+      "api": "https://api.agefans.app/api.php/provide/vod/",
+      "name": "AGE动漫"
+    },
+    "xfani": {
+      "api": "https://api.xfani.com/api.php/provide/vod/",
+      "name": "稀饭动漫"
+    },
+    "silisili": {
+      "api": "https://api.silisili.me/api.php/provide/vod/",
+      "name": "丝丝动漫"
+    },
+    "yinghua": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "name": "樱花资源"
+    },
+    "kuaifan": {
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "name": "快帆资源"
+    },
+    "apibdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源"
+    },
+    "haiwaikan": {
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "name": "海外看资源"
+    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
@@ -61,10 +97,6 @@
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源"
-    },
-    "yinghua": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源"
     },
     "wujin": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
@@ -157,6 +189,14 @@
     "ffzy3": {
       "api": "https://cj.ffzyapi3.com/api.php/provide/vod/",
       "name": "非凡3"
+    },
+    "ffzycj": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡采集"
+    },
+    "lzi2": {
+      "api": "https://lzizyapi.com/api.php/provide/vod",
+      "name": "量子备用"
     }
   }
 }
